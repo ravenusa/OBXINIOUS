@@ -31,8 +31,10 @@ a,m,h,k,b,u,c,p,bn,o = [
 '\033[0m'
 ]
 os.system("clear")
-d = input("mau lanjut spam (Y/n): ")
-time.sleep(3)
+#d = input("mau lanjut spam (Y/n): ")
+print('')
+mengetik('WAIT A SECOND ^-^')
+time.sleep(2)
 # print('')
 # mengetik('Subscribe duluh yah ^-^')
 # time.sleep(2)
@@ -60,12 +62,12 @@ banner = """
 \033[35m⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤"""
 os.system('clear')
 # UBAH TERSERAH KALIAN :)
-mengetik('\033[1;96m╔══════════════════════════════════════════════════╗')
-mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Creator\033[1;93m: \033[1;92mHiya")
-mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Github\033[1;93m : \033[1;92mHiya")
-mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Status\033[1;93m : \033[1;92mHiya")
-mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Version\033[1;93m: \033[1;92mv2.6.1")
-mengetik('\033[1;96m═══════════════════════════════════════════════════')
+#mengetik('\033[1;96m╔══════════════════════════════════════════════════╗')
+#mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Creator\033[1;93m: \033[1;92mHiya")
+#mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Github\033[1;93m : \033[1;92mHiya")
+#mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Status\033[1;93m : \033[1;92mHiya")
+#mengetik("\033[1;95m [\033[1;90m•\033[1;95m]\033[1;96m Version\033[1;93m: \033[1;92mv2.6.1")
+#mengetik('\033[1;96m═══════════════════════════════════════════════════')
 
 # JAGGAN DI UBAH
 print (banner)
