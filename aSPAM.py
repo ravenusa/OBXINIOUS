@@ -119,6 +119,7 @@ for i in range(jml):
 	print("OK")
           # print(f'\033[37m[\033[35m{i+1}\033[37m] \033[33mMessage \033[31m: \033[32mSpam Sms Terkirim')
       else:
-           print(f'\033[37m[\033[35m{i+1}\033[37m] \033[33mMessage \033[31m: \033[31mSpam Sms Gagal')
+	print("GAGAL")
+           #print(f'\033[37m[\033[35m{i+1}\033[37m] \033[33mMessage \033[31m: \033[31mSpam Sms Gagal')
       time.sleep(1.5)
 print ('\n\033[37m[\033[32m√\033[37m] \033[37mSpam Selesai \033[33m:)')
