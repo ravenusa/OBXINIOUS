@@ -74,7 +74,7 @@ print (banner)
 print ('%s[%s+%s] %sIP Kamu %s: %s%s' % (p,h,p,k,m,h,ip))
 print ('\033[37m[\033[33m•\033[37m]\033[33m :\033[33m \033[32mMax 10\033[32m ')
 #no = input('\n\033[37m[\033[33m•\033[37m] \033[33mex \033[31m: \033[32m08xx\n\033[37m[\033[32m+\033[37m] \033[33mPhone\033[31m:\033[32m ')
-no = input("Phone : ")
+no = raw_input("Phone : ")
 if no =='':
    exit('\033[37m[\033[31m!\033[37m] Janggan Kosong lurs')
 elif len(no) <= 9:
